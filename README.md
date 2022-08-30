@@ -1,0 +1,1 @@
+# Prova-Ternario-e-SwCase
